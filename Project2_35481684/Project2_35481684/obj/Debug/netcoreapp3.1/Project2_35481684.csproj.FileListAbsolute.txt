@@ -135,3 +135,9 @@ C:\Users\niela\OneDrive\Desktop\Uni\3de jaar\323\CMPG-323-Project-2---35481684\P
 C:\Users\niela\OneDrive\Desktop\Uni\3de jaar\323\CMPG-323-Project-2---35481684\Project2_35481684\Project2_35481684\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\niela\OneDrive\Desktop\Uni\3de jaar\323\CMPG-323-Project-2---35481684\Project2_35481684\Project2_35481684\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\niela\OneDrive\Desktop\Uni\3de jaar\323\CMPG-323-Project-2---35481684\Project2_35481684\Project2_35481684\obj\Debug\netcoreapp3.1\Project2_35481684.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\niela\OneDrive\Desktop\Uni\3de jaar\323\CMPG-323-Project-2---35481684\Project2_35481684\Project2_35481684\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\niela\OneDrive\Desktop\Uni\3de jaar\323\CMPG-323-Project-2---35481684\Project2_35481684\Project2_35481684\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\niela\OneDrive\Desktop\Uni\3de jaar\323\CMPG-323-Project-2---35481684\Project2_35481684\Project2_35481684\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\niela\OneDrive\Desktop\Uni\3de jaar\323\CMPG-323-Project-2---35481684\Project2_35481684\Project2_35481684\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\niela\OneDrive\Desktop\Uni\3de jaar\323\CMPG-323-Project-2---35481684\Project2_35481684\Project2_35481684\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\niela\OneDrive\Desktop\Uni\3de jaar\323\CMPG-323-Project-2---35481684\Project2_35481684\Project2_35481684\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
